@@ -1,0 +1,36 @@
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.deps.json
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net8.0\refint\Examen.ApplicationCore.dll
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\Amina\source\repos\Examen\Examen.ApplicationCore\obj\Debug\net8.0\ref\Examen.ApplicationCore.dll
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.deps.json
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\obj\Debug\net8.0\refint\Examen.ApplicationCore.dll
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.ApplicationCore\obj\Debug\net8.0\ref\Examen.ApplicationCore.dll
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.deps.json
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\bin\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.AssemblyInfo.cs
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\obj\Debug\net8.0\refint\Examen.ApplicationCore.dll
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\obj\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.ApplicationCore\obj\Debug\net8.0\ref\Examen.ApplicationCore.dll

@@ -1,0 +1,51 @@
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.deps.json
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.runtimeconfig.json
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.dll
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.pdb
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfo.cs
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.I.82EBB984.Up2Date
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.dll
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\refint\Examen.Infrastructure.dll
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.pdb
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.genruntimeconfig.cache
+C:\Users\Amina\source\repos\Examen\Examen.Infrastructure\obj\Debug\net8.0\ref\Examen.Infrastructure.dll
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.deps.json
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.runtimeconfig.json
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.dll
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.pdb
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfo.cs
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.I.82EBB984.Up2Date
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.dll
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\refint\Examen.Infrastructure.dll
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.pdb
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.genruntimeconfig.cache
+C:\Users\Amina\Downloads\SqueletteExamen (3)\Examen\Examen.Infrastructure\obj\Debug\net8.0\ref\Examen.Infrastructure.dll
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.deps.json
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.runtimeconfig.json
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.dll
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.Infrastructure.pdb
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.ApplicationCore.dll
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\bin\Debug\net8.0\Examen.ApplicationCore.pdb
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.AssemblyInfo.cs
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.I.82EBB984.Up2Date
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.dll
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\refint\Examen.Infrastructure.dll
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.pdb
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\Examen.Infrastructure.genruntimeconfig.cache
+C:\Users\PC\Desktop\SqueletteExamen\Examen\Examen.Infrastructure\obj\Debug\net8.0\ref\Examen.Infrastructure.dll

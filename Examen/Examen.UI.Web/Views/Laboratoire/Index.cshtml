@@ -1,0 +1,41 @@
+@model IEnumerable<Examen.ApplicationCore.Domain.Laboratoire>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Laboratoires</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Intitule)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Localisation)
+            </th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Intitule)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Localisation)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.LaboratoireId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.LaboratoireId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.LaboratoireId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

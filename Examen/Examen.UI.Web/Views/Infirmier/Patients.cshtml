@@ -1,0 +1,48 @@
+@model IEnumerable<Examen.ApplicationCore.Domain.Patient>
+
+@{
+    ViewData["Title"] = "Patients";
+}
+
+<h1>Patients de l'infirmier @ViewBag.InfirmierNom</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CodePatient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NomComplet)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EmailPatient)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Informations)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodePatient)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NomComplet)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EmailPatient)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Informations)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div>
+    <a asp-action="Index">Retour à la liste des infirmiers</a>
+</div>
